@@ -29,6 +29,6 @@ Objetivo: Auxiliar o senhor João em decidir qual das quatro lojas para vender, 
 </a>
 
 # Gráficos Gerados:
-
+<img src="Imagens/01.png">
 
 
