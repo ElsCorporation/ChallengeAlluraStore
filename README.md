@@ -28,3 +28,7 @@ Objetivo: Auxiliar o senhor João em decidir qual das quatro lojas para vender, 
 <img src="https://www.freelogovectors.net/wp-content/uploads/2022/07/numpy-logo-freelogovectors.net_.png" width=50px height=50px title='NumPy'>
 </a>
 
+# Gráficos Gerados:
+
+
+
