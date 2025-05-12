@@ -4,7 +4,7 @@ Projeto desenvolvido em aula, do TECH FOUNDATION - Especialização Data Science
 
 Objetivo: Auxiliar o senhor João em decidir qual das quatro lojas para vender, baseado em dados de desempenho fornecidos, gerando gráficos para melhor resolução.
 
-<a href="https://raw.githubusercontent.com/ElsCorporation/ChallengeAlluraStore/refs/heads/main/AluraStoreBrEdinhoLima.ipynb">
+<a href="https://github.com/ElsCorporation/ChallengeAlluraStore/archive/refs/heads/main.zip">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Media-floppy.svg/190px-Media-floppy.svg.png" width=35px height=35px title="Download">
 </a>
 
